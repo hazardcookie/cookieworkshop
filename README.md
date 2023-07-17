@@ -1,5 +1,4 @@
 # University of Waterloo Solidity Bootcamp - Foundry, Solidity, XRPL EVM Sidechain
-​
 ## Table of Contents
 - [Description](#Description)
 - [Prerequisites](#Prerequisites)
