@@ -24,6 +24,8 @@ To install and setup the University of Waterloo Solidity Bootcamp environment, f
 Install Foundry by following the instructions provided [here](https://foundry.readthedocs.io/en/latest/getting-started.html#install).
 ​
 Access the bridge at [XRPL Bridge](https://bridge.devnet.xrpl.org/).
+
+Block explorer for the XRPL EVM Sidechain: [Block Explorer](https://evm-sidechain.xrpl.org/)
 ​
 Create a [Metamask](https://metamask.io/download.html) wallet to connect to the bridge. Bridge some testnet XRP to your wallet.
 ​

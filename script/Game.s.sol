@@ -2,13 +2,13 @@
 pragma solidity ^0.8.13;
 
 import "forge-std/Script.sol";
-import { Game } from "src/Game.sol";
+import {Game} from "src/Game.sol";
 
 contract GameDeploy is Script {
-  function setUp() public { }
+    function setUp() public {}
 
-  function run() public {
-    vm.broadcast();
-    new Game();
-  }
+    function run() public {
+        vm.broadcast();
+        new Game();
+    }
 }
